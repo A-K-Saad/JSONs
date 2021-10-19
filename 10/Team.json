@@ -3,84 +3,98 @@
     "id": 1,
     "name": "Dr. Robert Shipman",
     "image": "https://i.ibb.co/GxD7p1f/1.png",
-    "qualification": "MBBS, RSC"
+    "qualification": "MBBS, RSC",
+    "position": "President"
   },
   {
     "id": 2,
     "name": "Dr. Alan Rickman",
     "image": "https://i.ibb.co/k2xhPdL/2.png",
-    "qualification": "MBBS, RSC"
+    "qualification": "MBBS, DMBC",
+    "position": "Periodontist"
   },
   {
     "id": 3,
     "name": "Dr. Emma Felton",
     "image": "https://i.ibb.co/FXFQ870/3.png",
-    "qualification": "MBBS, RSC"
+    "qualification": "RFSC, MBBS, FRCS",
+    "position": "General Dentist"
   },
   {
     "id": 4,
     "name": "Dr. John Smith",
     "image": "https://i.ibb.co/8zPv3y6/4.png",
-    "qualification": "MBBS, RSC"
+    "qualification": "DA, FARS, SCD",
+    "position": "Endodontist"
   },
   {
     "id": 5,
     "name": "Dr. Parker Smith",
     "image": "https://i.ibb.co/9VzYkNr/5.png",
-    "qualification": "MBBS, RSC"
+    "qualification": "MST, FSAT",
+    "position": "Orthodontist"
   },
   {
     "id": 6,
     "name": "Dr. Trelawney Mark",
     "image": "https://i.ibb.co/Pz6tLLp/dentist-1.png",
-    "qualification": "MBBS, RSC"
+    "qualification": "MBBS, DSC",
+    "position": "Prosthodontist"
   },
   {
     "id": 7,
     "name": "Dr. Zacharias Gambon",
     "image": "https://i.ibb.co/g3y8R9Z/7.png",
-    "qualification": "MBBS, RSC"
+    "qualification": "SCRE, SRMB, MBBS",
+    "position": "Oral Care"
   },
   {
     "id": 8,
     "name": "Dr. Peter John",
     "image": "https://i.ibb.co/vc66fnz/8.png",
-    "qualification": "MBBS, RSC"
+    "qualification": "TRSE, JEK",
+    "position": "Maxillofacial Radiologist"
   },
   {
     "id": 9,
     "name": "Dr. Joe Chang",
     "image": "https://i.ibb.co/PTjTYb0/9.png",
-    "qualification": "MBBS, RSC"
+    "qualification": "MRSS, DSCE",
+    "position": "Prosthodontist"
   },
   {
     "id": 10,
     "name": "Dr. Wright Bonnie",
     "image": "https://i.ibb.co/Sw8HW90/10.jpg",
-    "qualification": "MBBS, RSC"
+    "qualification": "SCAR, CSAR",
+    "position": "Oral Surgeon"
   },
   {
     "id": 11,
     "name": "Dr. Mery Phelps",
     "image": "https://i.ibb.co/26XQSHy/5a34ffa093ff15-3511096315134227526062.png",
-    "qualification": "MBBS, RSC"
+    "qualification": "FRSC, SRCS",
+    "position": "Dental Hygienist"
   },
   {
     "id": 12,
     "name": "Dr. Michael Gambon",
     "image": "https://i.ibb.co/djQNp0D/14.png",
-    "qualification": "MBBS, RSC"
+    "qualification": "SFRE, FSCR",
+    "position": "Assistant"
   },
   {
     "id": 13,
     "name": "Dr. Mc Laggen",
     "image": "https://i.ibb.co/RzJfY2P/dentist-3.png",
-    "qualification": "MBBS, RSC"
+    "qualification": "ASFD, FSDD",
+    "position": "General Dentist"
   },
   {
     "id": 14,
     "name": "Dr. Joerge Fred",
     "image": "https://i.ibb.co/5X31Z2W/16.png",
-    "qualification": "MBBS, RSC"
+    "qualification": "FF, SSAD",
+    "position": "Orhonodist"
   }
 ]
