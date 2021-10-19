@@ -6,7 +6,6 @@
     "qualification": "MBBS, RSC",
     "position": "President",
     "appointments": [
-      { "day": "Sunday", "time": "03:00pm - 08:00pm" },
       { "day": "Monday", "time": "10:00 am - 02:00pm" },
       { "day": "Tuesday", "time": "03:00pm - 08:00pm" },
       { "day": "Wednesday", "time": "03:00pm - 08:00pm" },
@@ -22,7 +21,6 @@
     "qualification": "MBBS, DMBC",
     "position": "Periodontist",
     "appointments": [
-      { "day": "Sunday", "time": "02:30pm - 07:00pm" },
       { "day": "Monday", "time": "02:30pm - 07:00pm" },
       { "day": "Tuesday", "time": "02:30pm - 07:00pm" },
       { "day": "Wednesday", "time": "OFF" },
@@ -39,7 +37,6 @@
     "position": "General Dentist",
     "appointments": [
       { "day": "Sunday", "time": "OFF" },
-      { "day": "Monday", "time": "03:00pm - 07:00pm" },
       { "day": "Tuesday", "time": "03:00pm - 07:00pm" },
       { "day": "Wednesday", "time": "07:00pm - 10:00pm" },
       { "day": "Thursday", "time": "03:00pm - 07:00pm" },
@@ -55,7 +52,6 @@
     "position": "Endodontist",
     "appointments": [
       { "day": "Sunday", "time": "OFF" },
-      { "day": "Monday", "time": "06:00pm - 09:00pm" },
       { "day": "Tuesday", "time": "03:00pm - 07:00pm" },
       { "day": "Wednesday", "time": "03:00pm - 07:00pm" },
       { "day": "Thursday", "time": "06:00pm - 09:00pm" },
@@ -71,7 +67,6 @@
     "position": "Orthodontist",
     "appointments": [
       { "day": "Sunday", "time": "OFF" },
-      { "day": "Monday", "time": "03:00pm - 07:00pm" },
       { "day": "Tuesday", "time": "03:00pm - 07:00pm" },
       { "day": "Wednesday", "time": "07:00pm - 10:00pm" },
       { "day": "Thursday", "time": "03:00pm - 07:00pm" },
@@ -87,7 +82,6 @@
     "position": "Prosthodontist",
     "appointments": [
       { "day": "Sunday", "time": "OFF" },
-      { "day": "Monday", "time": "06:00pm - 09:00pm" },
       { "day": "Tuesday", "time": "03:00pm - 07:00pm" },
       { "day": "Wednesday", "time": "03:00pm - 07:00pm" },
       { "day": "Thursday", "time": "06:00pm - 09:00pm" },
@@ -102,7 +96,6 @@
     "qualification": "SCRE, SRMB, MBBS",
     "position": "Oral Care",
     "appointments": [
-      { "day": "Sunday", "time": "02:30pm - 07:00pm" },
       { "day": "Monday", "time": "02:30pm - 07:00pm" },
       { "day": "Tuesday", "time": "02:30pm - 07:00pm" },
       { "day": "Wednesday", "time": "OFF" },
@@ -119,7 +112,6 @@
     "position": "Maxillofacial Radiologist",
     "appointments": [
       { "day": "Sunday", "time": "OFF" },
-      { "day": "Monday", "time": "06:00pm - 09:00pm" },
       { "day": "Tuesday", "time": "03:00pm - 07:00pm" },
       { "day": "Wednesday", "time": "03:00pm - 07:00pm" },
       { "day": "Thursday", "time": "06:00pm - 09:00pm" },
@@ -134,7 +126,6 @@
     "qualification": "MRSS, DSCE",
     "position": "Prosthodontist",
     "appointments": [
-      { "day": "Sunday", "time": "02:30pm - 07:00pm" },
       { "day": "Monday", "time": "02:30pm - 07:00pm" },
       { "day": "Tuesday", "time": "02:30pm - 07:00pm" },
       { "day": "Wednesday", "time": "OFF" },
@@ -151,7 +142,6 @@
     "position": "Oral Surgeon",
     "appointments": [
       { "day": "Sunday", "time": "OFF" },
-      { "day": "Monday", "time": "06:00pm - 09:00pm" },
       { "day": "Tuesday", "time": "03:00pm - 07:00pm" },
       { "day": "Wednesday", "time": "03:00pm - 07:00pm" },
       { "day": "Thursday", "time": "06:00pm - 09:00pm" },
@@ -167,7 +157,6 @@
     "position": "Dental Hygienist",
     "appointments": [
       { "day": "Sunday", "time": "OFF" },
-      { "day": "Monday", "time": "03:00pm - 07:00pm" },
       { "day": "Tuesday", "time": "03:00pm - 07:00pm" },
       { "day": "Wednesday", "time": "07:00pm - 10:00pm" },
       { "day": "Thursday", "time": "03:00pm - 07:00pm" },
@@ -182,7 +171,6 @@
     "qualification": "SFRE, FSCR",
     "position": "Assistant",
     "appointments": [
-      { "day": "Sunday", "time": "02:30pm - 07:00pm" },
       { "day": "Monday", "time": "02:30pm - 07:00pm" },
       { "day": "Tuesday", "time": "02:30pm - 07:00pm" },
       { "day": "Wednesday", "time": "OFF" },
@@ -198,7 +186,6 @@
     "qualification": "ASFD, FSDD",
     "position": "General Dentist",
     "appointments": [
-      { "day": "Sunday", "time": "09:00am - 12:00pm" },
       { "day": "Monday", "time": "03:00pm - 07:00pm" },
       { "day": "Tuesday", "time": "03:00pm - 07:00pm" },
       { "day": "Wednesday", "time": "09:00am - 12:00pm" },
@@ -215,7 +202,6 @@
     "position": "Orhonodist",
     "appointments": [
       { "day": "Sunday", "time": "OFF" },
-      { "day": "Monday", "time": "06:00pm - 09:00pm" },
       { "day": "Tuesday", "time": "06:00pm - 09:00pm" },
       { "day": "Wednesday", "time": "06:00pm - 09:00pm" },
       { "day": "Thursday", "time": "OFF" },
