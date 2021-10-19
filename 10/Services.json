@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Dental Services",
+    "description": "All kinds of services of teeth. Fixing teeth harmlessly.",
+    "icon": "fas fa-briefcase-medical"
+  },
+  {
+    "id": 2,
+    "name": "Regular Checkup",
+    "description": "Regular checkup and regular reports on teeth condition.",
+    "icon": "fas fa-stethoscope"
+  },
+  {
+    "id": 3,
+    "name": "Teeth Implants",
+    "description": "Adding and removing tooth and fixing jerms.",
+    "icon": "fas fa-teeth-open"
+  },
+  {
+    "id": 4,
+    "name": "Teeth Alignment",
+    "description": "Teeth alignment harmlessly and quickly in least cost.",
+    "icon": "fas fa-teeth"
+  },
+  {
+    "id": 5,
+    "name": "Teeth Whitening",
+    "description": "Regular tips and whitening the teeths as like soft milk.",
+    "icon": "fas fa-tooth"
+  },
+  {
+    "id": 6,
+    "name": "Latest Machines",
+    "description": "Checkup with latest teeth surgery technology.",
+    "icon": "far fa-hdd"
+  },
+  {
+    "id": 7,
+    "name": "Temperature",
+    "description": "Maintained workspace temperature for chembers.",
+    "icon": "fas fa-temperature-high"
+  },
+  {
+    "id": 8,
+    "name": "Cheap",
+    "description": "High treatment at a very cheap and handy cost",
+    "icon": "fas fa-money-bill-wave"
+  }
+]
