@@ -4,97 +4,223 @@
     "name": "Dr. Robert Shipman",
     "image": "https://i.ibb.co/GxD7p1f/1.png",
     "qualification": "MBBS, RSC",
-    "position": "President"
+    "position": "President",
+    "appointments": [
+      { "day": "Sunday", "time": "03:00pm - 08:00pm" },
+      { "day": "Monday", "time": "10:00 am - 02:00pm" },
+      { "day": "Tuesday", "time": "03:00pm - 08:00pm" },
+      { "day": "Wednesday", "time": "03:00pm - 08:00pm" },
+      { "day": "Thursday", "time": "10:00 am - 02:00pm" },
+      { "day": "Friday", "time": "OFF" },
+      { "day": "Saturday", "time": "OFF" }
+    ]
   },
   {
     "id": 2,
     "name": "Dr. Alan Rickman",
     "image": "https://i.ibb.co/k2xhPdL/2.png",
     "qualification": "MBBS, DMBC",
-    "position": "Periodontist"
+    "position": "Periodontist",
+    "appointments": [
+      { "day": "Sunday", "time": "02:30pm - 07:00pm" },
+      { "day": "Monday", "time": "02:30pm - 07:00pm" },
+      { "day": "Tuesday", "time": "02:30pm - 07:00pm" },
+      { "day": "Wednesday", "time": "OFF" },
+      { "day": "Thursday", "time": "09:00am - 01:00pm" },
+      { "day": "Friday", "time": "09:00am - 01:00pm" },
+      { "day": "Saturday", "time": "OFF" }
+    ]
   },
   {
     "id": 3,
     "name": "Dr. Emma Felton",
     "image": "https://i.ibb.co/FXFQ870/3.png",
     "qualification": "RFSC, MBBS, FRCS",
-    "position": "General Dentist"
+    "position": "General Dentist",
+    "appointments": [
+      { "day": "Sunday", "time": "OFF" },
+      { "day": "Monday", "time": "03:00pm - 07:00pm" },
+      { "day": "Tuesday", "time": "03:00pm - 07:00pm" },
+      { "day": "Wednesday", "time": "07:00pm - 10:00pm" },
+      { "day": "Thursday", "time": "03:00pm - 07:00pm" },
+      { "day": "Friday", "time": "07:00pm - 10:00pm" },
+      { "day": "Saturday", "time": "OFF" }
+    ]
   },
   {
     "id": 4,
     "name": "Dr. John Smith",
     "image": "https://i.ibb.co/8zPv3y6/4.png",
     "qualification": "DA, FARS, SCD",
-    "position": "Endodontist"
+    "position": "Endodontist",
+    "appointments": [
+      { "day": "Sunday", "time": "OFF" },
+      { "day": "Monday", "time": "06:00pm - 09:00pm" },
+      { "day": "Tuesday", "time": "03:00pm - 07:00pm" },
+      { "day": "Wednesday", "time": "03:00pm - 07:00pm" },
+      { "day": "Thursday", "time": "06:00pm - 09:00pm" },
+      { "day": "Friday", "time": "03:00pm - 07:00pm" },
+      { "day": "Saturday", "time": "OFF" }
+    ]
   },
   {
     "id": 5,
     "name": "Dr. Parker Smith",
     "image": "https://i.ibb.co/9VzYkNr/5.png",
     "qualification": "MST, FSAT",
-    "position": "Orthodontist"
+    "position": "Orthodontist",
+    "appointments": [
+      { "day": "Sunday", "time": "OFF" },
+      { "day": "Monday", "time": "03:00pm - 07:00pm" },
+      { "day": "Tuesday", "time": "03:00pm - 07:00pm" },
+      { "day": "Wednesday", "time": "07:00pm - 10:00pm" },
+      { "day": "Thursday", "time": "03:00pm - 07:00pm" },
+      { "day": "Friday", "time": "07:00pm - 10:00pm" },
+      { "day": "Saturday", "time": "OFF" }
+    ]
   },
   {
     "id": 6,
     "name": "Dr. Trelawney Mark",
     "image": "https://i.ibb.co/Pz6tLLp/dentist-1.png",
     "qualification": "MBBS, DSC",
-    "position": "Prosthodontist"
+    "position": "Prosthodontist",
+    "appointments": [
+      { "day": "Sunday", "time": "OFF" },
+      { "day": "Monday", "time": "06:00pm - 09:00pm" },
+      { "day": "Tuesday", "time": "03:00pm - 07:00pm" },
+      { "day": "Wednesday", "time": "03:00pm - 07:00pm" },
+      { "day": "Thursday", "time": "06:00pm - 09:00pm" },
+      { "day": "Friday", "time": "03:00pm - 07:00pm" },
+      { "day": "Saturday", "time": "OFF" }
+    ]
   },
   {
     "id": 7,
     "name": "Dr. Zacharias Gambon",
     "image": "https://i.ibb.co/g3y8R9Z/7.png",
     "qualification": "SCRE, SRMB, MBBS",
-    "position": "Oral Care"
+    "position": "Oral Care",
+    "appointments": [
+      { "day": "Sunday", "time": "02:30pm - 07:00pm" },
+      { "day": "Monday", "time": "02:30pm - 07:00pm" },
+      { "day": "Tuesday", "time": "02:30pm - 07:00pm" },
+      { "day": "Wednesday", "time": "OFF" },
+      { "day": "Thursday", "time": "09:00am - 01:00pm" },
+      { "day": "Friday", "time": "09:00am - 01:00pm" },
+      { "day": "Saturday", "time": "OFF" }
+    ]
   },
   {
     "id": 8,
     "name": "Dr. Peter John",
     "image": "https://i.ibb.co/vc66fnz/8.png",
     "qualification": "TRSE, JEK",
-    "position": "Maxillofacial Radiologist"
+    "position": "Maxillofacial Radiologist",
+    "appointments": [
+      { "day": "Sunday", "time": "OFF" },
+      { "day": "Monday", "time": "06:00pm - 09:00pm" },
+      { "day": "Tuesday", "time": "03:00pm - 07:00pm" },
+      { "day": "Wednesday", "time": "03:00pm - 07:00pm" },
+      { "day": "Thursday", "time": "06:00pm - 09:00pm" },
+      { "day": "Friday", "time": "03:00pm - 07:00pm" },
+      { "day": "Saturday", "time": "OFF" }
+    ]
   },
   {
     "id": 9,
     "name": "Dr. Joe Chang",
     "image": "https://i.ibb.co/PTjTYb0/9.png",
     "qualification": "MRSS, DSCE",
-    "position": "Prosthodontist"
+    "position": "Prosthodontist",
+    "appointments": [
+      { "day": "Sunday", "time": "02:30pm - 07:00pm" },
+      { "day": "Monday", "time": "02:30pm - 07:00pm" },
+      { "day": "Tuesday", "time": "02:30pm - 07:00pm" },
+      { "day": "Wednesday", "time": "OFF" },
+      { "day": "Thursday", "time": "09:00am - 01:00pm" },
+      { "day": "Friday", "time": "09:00am - 01:00pm" },
+      { "day": "Saturday", "time": "OFF" }
+    ]
   },
   {
     "id": 10,
     "name": "Dr. Wright Bonnie",
     "image": "https://i.ibb.co/Sw8HW90/10.jpg",
     "qualification": "SCAR, CSAR",
-    "position": "Oral Surgeon"
+    "position": "Oral Surgeon",
+    "appointments": [
+      { "day": "Sunday", "time": "OFF" },
+      { "day": "Monday", "time": "06:00pm - 09:00pm" },
+      { "day": "Tuesday", "time": "03:00pm - 07:00pm" },
+      { "day": "Wednesday", "time": "03:00pm - 07:00pm" },
+      { "day": "Thursday", "time": "06:00pm - 09:00pm" },
+      { "day": "Friday", "time": "03:00pm - 07:00pm" },
+      { "day": "Saturday", "time": "OFF" }
+    ]
   },
   {
     "id": 11,
     "name": "Dr. Mery Phelps",
     "image": "https://i.ibb.co/26XQSHy/5a34ffa093ff15-3511096315134227526062.png",
     "qualification": "FRSC, SRCS",
-    "position": "Dental Hygienist"
+    "position": "Dental Hygienist",
+    "appointments": [
+      { "day": "Sunday", "time": "OFF" },
+      { "day": "Monday", "time": "03:00pm - 07:00pm" },
+      { "day": "Tuesday", "time": "03:00pm - 07:00pm" },
+      { "day": "Wednesday", "time": "07:00pm - 10:00pm" },
+      { "day": "Thursday", "time": "03:00pm - 07:00pm" },
+      { "day": "Friday", "time": "07:00pm - 10:00pm" },
+      { "day": "Saturday", "time": "OFF" }
+    ]
   },
   {
     "id": 12,
     "name": "Dr. Michael Gambon",
     "image": "https://i.ibb.co/djQNp0D/14.png",
     "qualification": "SFRE, FSCR",
-    "position": "Assistant"
+    "position": "Assistant",
+    "appointments": [
+      { "day": "Sunday", "time": "02:30pm - 07:00pm" },
+      { "day": "Monday", "time": "02:30pm - 07:00pm" },
+      { "day": "Tuesday", "time": "02:30pm - 07:00pm" },
+      { "day": "Wednesday", "time": "OFF" },
+      { "day": "Thursday", "time": "09:00am - 01:00pm" },
+      { "day": "Friday", "time": "09:00am - 01:00pm" },
+      { "day": "Saturday", "time": "OFF" }
+    ]
   },
   {
     "id": 13,
     "name": "Dr. Mc Laggen",
     "image": "https://i.ibb.co/RzJfY2P/dentist-3.png",
     "qualification": "ASFD, FSDD",
-    "position": "General Dentist"
+    "position": "General Dentist",
+    "appointments": [
+      { "day": "Sunday", "time": "09:00am - 12:00pm" },
+      { "day": "Monday", "time": "03:00pm - 07:00pm" },
+      { "day": "Tuesday", "time": "03:00pm - 07:00pm" },
+      { "day": "Wednesday", "time": "09:00am - 12:00pm" },
+      { "day": "Thursday", "time": "09:00am - 12:00pm" },
+      { "day": "Friday", "time": "OFF" },
+      { "day": "Saturday", "time": "OFF" }
+    ]
   },
   {
     "id": 14,
     "name": "Dr. Joerge Fred",
     "image": "https://i.ibb.co/5X31Z2W/16.png",
     "qualification": "FF, SSAD",
-    "position": "Orhonodist"
+    "position": "Orhonodist",
+    "appointments": [
+      { "day": "Sunday", "time": "OFF" },
+      { "day": "Monday", "time": "06:00pm - 09:00pm" },
+      { "day": "Tuesday", "time": "06:00pm - 09:00pm" },
+      { "day": "Wednesday", "time": "06:00pm - 09:00pm" },
+      { "day": "Thursday", "time": "OFF" },
+      { "day": "Friday", "time": "OFF" },
+      { "day": "Saturday", "time": "03:00pm - 08:00pm" }
+    ]
   }
 ]
